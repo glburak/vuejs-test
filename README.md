@@ -1,2 +1,0 @@
-# vuejs-test
-eğitim amaçlı
